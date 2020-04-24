@@ -1,7 +1,6 @@
 package com.tsystems.javaschool.tasks.subsequence;
 
 import java.util.List;
-import java.util.regex.Pattern;
 
 public class Subsequence {
 
